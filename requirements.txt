@@ -1,0 +1,7 @@
+wget
+pytorch-lightning
+datasets
+transformers
+evaluate
+seaborn
+albumentations
