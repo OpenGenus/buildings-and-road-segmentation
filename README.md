@@ -44,7 +44,7 @@ The required time to train SegFormer-B2 was 10 hours.
 ![training_plots](./imgs/train_monitoring_b2.png)
 
 Validation:
-![validation_b2](./imgs/validation.jpg)
+![validation_b2](./imgs/validation.JPG)
 
 # Inference
 ![predictions](./imgs/predictions.png)
