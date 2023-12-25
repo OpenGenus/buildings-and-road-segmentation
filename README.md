@@ -1,7 +1,7 @@
 # buildings_and_road_segmentation
 This repository fine tune SegFormer[2] (ViT model for semantic segmentation), on Camvid (CamSeq1) dataset.
 
-![segformer](./imgs/segformer.jpg)
+![segformer](./imgs/segformer.JPG)
 
 
 # Dataset
