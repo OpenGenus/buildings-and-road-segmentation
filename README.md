@@ -1,5 +1,7 @@
-# buildings_and_road_segmentation
+# Buildings and road segmentation
 This repository fine tune SegFormer[2] (ViT model for semantic segmentation), on Camvid (CamSeq1) dataset.
+
+Developed by Cherifi Imane; ([Step by step documentation](https://iq.opengenus.org/semantic-segmentation-for-self-driving-cars/))
 
 ![segformer](./imgs/segformer.JPG)
 
